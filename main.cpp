@@ -1,7 +1,5 @@
-#include <iostream.h>
+#include <iostream>
 
-main ()
-{
-  cout << "Hallo";
-  return 0;
+int main () {
+  std::cout << "Hallo von der anderen Seite!";
 }
